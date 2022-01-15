@@ -1,0 +1,22 @@
+// Переопределение дефолтных значений переменных Bootstrap 4 и определение своих
+@import "variables";
+@import "font/font";
+// Подключение своих SCSS файлов
+@import "my";
+@import "blocks/header";
+@import "blocks/nav";
+@import "blocks/home";
+@import "blocks/social";
+@import "blocks/profile";
+@import "blocks/education";
+@import "blocks/skills";
+@import "blocks/experience";
+@import "blocks/certificate";
+@import "blocks/languages";
+@import "blocks/interest";
+@import "blocks/scrolltop";
+@import "theme/theme";
+@import "theme/darktheme";
+@import "blocks/pdf/pdf";
+// media
+@import "media/media";

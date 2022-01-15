@@ -1,0 +1,13 @@
+.cert__title {
+  font-size: var(--h3-font-size);
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 1rem auto;
+  width: auto;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 5px;
+  box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.2);
+}
